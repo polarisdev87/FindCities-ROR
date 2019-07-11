@@ -4,4 +4,6 @@ REACT APP: Cities' Data
 
 - URL params used to view show pages of cities' data, using Chart.js
 
-- Run commands: "npm start" (client), "rails s" (server)
+- Run commands:
+	frontend: npm start 
+	backend: rails server
